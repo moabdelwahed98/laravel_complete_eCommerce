@@ -1,0 +1,31 @@
+/* The Modal (background) */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #009675;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    border-radius: 6px;
+    width: 50%;
+}
+.modal-content p{
+    color: #eee;
+    text-align: center;
+    font-size: 30px;
+}
+.modal-content p span{
+    color: #eee;
+}
+.modal-open{
+    overflow: hidden;
+}
