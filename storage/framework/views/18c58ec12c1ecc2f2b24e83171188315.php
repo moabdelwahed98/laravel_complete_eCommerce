@@ -62,7 +62,7 @@
         <div class = "sm-modal" id="sm-modal">
             <div class="modal-body">
                 <p>
-                    Added Succesfully! 😃
+                    Added Succesfully! :)
                 </p>
             </div>
         </div>
